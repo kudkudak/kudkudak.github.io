@@ -2,14 +2,14 @@
   {
     "img": "/assets/img/publications/cnn.png",
     "title": "Learning to SMILE(S)",
-    "content": "<i>Learning to SMILE(S)</i>, S. Jastrzębski, D. Lesniak & W. M. Czarnecki",
+    "content": ",S. Jastrzębski, D. Lesniak & W. M. Czarnecki",
     "details": "Under review for ICLR 2016 workshop. CoRR, arxiv",
     "pdf": "http://arxiv.org/pdf/1602.06289v1.pdf"
   },
   {
     "img": "/assets/img/publications/al.png",
     "title": "Active Learning of Compounds Activity–Towards Scientifically Sound Simulation of Drug Candidates Identification",
-    "content": "W. M. Czarnecki, S. Jastrzębski, I. Sieradzki, S. Podlewska",
+    "content": ",W. M. Czarnecki, S. Jastrzębski, I. Sieradzki, S. Podlewska",
     "details": "workshop paper, MLLS Workshop @ ECML 2015",
     "github": "https://github.com/gmum/mlls2015",
     "pdf": "/assets/pdf/publications/al.pdf",
@@ -18,7 +18,7 @@
   {
     "img": "/assets/img/publications/knnmelc.png",
     "title": "Analysis of compounds activity concept learned by SVM using robust Jaccard based low-dimensional embedding",
-    "content": "S. Jastrzębski, W. M. Czarnecki",
+    "content": ",S. Jastrzębski, W. M. Czarnecki",
     "details": "journal paper, TFML 2015",
     "pdf": "/assets/pdf/publications/knnmelc.pdf",
     "slides": "/assets/pdf/publications/knnmelc_presentation.pdf",
@@ -27,7 +27,7 @@
   {
     "img": "/assets/img/publications/gng.png",
     "title": "Density Invariant Detection of Osteoporosis Using Growing Neural Gas",
-    "content": "I. T. Podolak, S. Jastrzębski",
+    "content": ",I. T. Podolak, S. Jastrzębski",
     "details": "conference paper, CORES 2013",
     "slides": "/assets/pdf/publications/gng_slides.pdf",
     "github": "https://github.com/kudkudak/Growing-Neural-Gas"
