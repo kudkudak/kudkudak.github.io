@@ -1,0 +1,26 @@
+[
+  {
+    "img": "/assets/img/cv/edinburgh.png",
+    "title": "University of Edinburgh",
+    "content": "Research intern, Deep Learning for Go, under the supervision of <a href=\"http://homepages.inf.ed.ac.uk/amos/\"> prof. Amos Storkey </a>",
+    "details": "2015, Edinburgh, UK"
+  },
+  {
+    "img": "/assets/img/cv/palantir.png",
+    "title": "Palantir",
+    "content": "SDE intern, distributed data systems",
+    "details": "2015, Palo Alto, USA"
+  },
+  {
+    "img": "/assets/img/cv/microsoft.png",
+    "title": "Microsoft",
+    "content": "SDE intern, API research and design",
+    "details": "2014, Redmond, USA"
+  },
+  {
+    "img": "/assets/img/cv/wideio.jpg",
+    "title": "wide.io",
+    "content": "SDE intern, data processing framework development",
+    "details": "2013, London, UK"
+  }
+]

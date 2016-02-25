@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+
+{% if page.title != "404" %}
+
+<header>
+    <div id="logo">
+        <img src="/assets/img/photo.jpg"/>
+    </div>
+    <aside>
+        <h1>
+            <title>
+                Stanisław Jastrzębski
+            </title></h1>
+        <nav>
+            {% if page.title == "Home" %}
+            <a class="scroll-on-page-link" href="#short-cv">CV</a>
+            <a class="scroll-on-page-link" href="#publications">Publications</a>
+            <a class="scroll-on-page-link" href="#code">Code</a>
+            <a class="scroll-on-page-link" href="#talks">Talks</a>
+            {% else %}
+            <a href="/">CV</a>
+            <a href="/">Publications</a>
+            <a href="/">Code</a>
+            <a href="/">Talks</a>
+            {% endif %}
+            <a href="/4students">4students</a>
+        </nav>
+    </aside>
+</header>
+
+{% endif %}
+
+<div class="row-wrapper">
+    <div class="outer-container">
+        <div id="js-fadeInElement" class="fade-in-element">
+            <div id="js-parallax-window" class="parallax-window">
+                <div class="parallax-static-content">
+                    {{content}}
+                </div>
+                <div id="js-parallax-background" class="parallax-background"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

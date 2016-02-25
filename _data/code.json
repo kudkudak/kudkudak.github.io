@@ -1,0 +1,29 @@
+[
+  {
+    "img": "/assets/img/code/web.png",
+    "title": "Word Embeddings Benchmarks",
+    "content": "Python package for evaluating word embeddings.",
+    "github": "https://github.com/kudkudak/word-embeddings-benchmarks"
+  },
+  {
+    "img": "/assets/img/code/alpy.jpg",
+    "title": "alpy",
+    "content": "Python package for Active Learning with scikit-learn compatible API.",
+    "details": "Work in progress"
+  },
+  {
+    "img": "/assets/img/code/gmumr.png",
+    "title": "GMUM.R",
+    "content": "ML algorithms C++ implementations for R, including online clustering, swappable SVM library interface and new clustering algorithm.",
+    "github": "https://github.com/gmum/gmum.r",
+    "url": "http://r.gmum.net"
+  },
+  {
+    "img": "/assets/img/code/krakrobot.png",
+    "title": "KrakRobot Simulator",
+    "content": "Simulator for 2015 and 2016 editions online qualification round.",
+    "github": "https://github.com/uj-robotics/krakrobot2016-online",
+    "url": "http://krakrobot.pl"
+  }
+]
+

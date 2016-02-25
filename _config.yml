@@ -1,0 +1,26 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Stanisław Jastrzębski
+url:                 http://kudkudak.github.io
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Stanisław Jastrzębski
+  url:               https://twitter.com/kudkudakp
+  email:             staszek.jastrzebski@gmail.com
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist

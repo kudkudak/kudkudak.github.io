@@ -1,0 +1,265 @@
+/************ General Page Elements */
+
+
+.row-wrapper {
+  padding-top: 2em;
+  @include row();
+   
+  .outer-container {
+    @include outer-container;
+  }  
+}
+
+
+/************ Navigation */
+header {
+  padding-top: 1em;
+  height: 150px;
+  @include outer-container;
+
+  aside {
+    @include span-columns(10); 
+    @include omega();
+  }
+
+  title {
+    color: $base-font-color;
+    @include span-columns(10 of 10);
+    @include fill-parent();
+  //  font-size: 2em;
+  }
+
+  #logo {
+    @include span-columns(2);
+    img {
+//       transform: scale(0.8, 0.8); 
+    }
+  }
+
+  nav {
+    @include fill-parent();
+    @include span-columns(10 of 10);
+    & a {
+      font-size:18px;
+      color: $action-color;
+      margin-right:14px;
+      
+      &:last-child {
+        margin-right:9px;
+      }
+    }
+  }
+
+  }
+
+
+
+/************* Parallax */
+
+$parallax-window-height: 550em;
+$parallax-background-height: $parallax-window-height * 1;
+
+.parallax-window {
+  @include span-columns(12);
+  max-height: $parallax-window-height;
+  min-height: 30em;
+  position: relative;
+  overflow: hidden;
+}
+
+.parallax-static-content {
+  @include span-columns(8 of 8);
+  color: #9A9A8A;
+}
+
+.parallax-background {
+  @include span-columns(8 of 8);
+  background: url("/assets/img/bg.png");
+  background-position: top;
+  z-index: -1;
+  background-size: repeat;
+  height: $parallax-background-height;
+  left: 0;
+  position: absolute;
+  top: - $parallax-window-height / 3;
+}
+
+/*************** Animations */
+
+.fade-in-element {
+ @include clearfix;
+}
+
+.js-fade-element-hide {
+  opacity: 0;
+}
+
+.js-fade-element-show {
+  @include transition (all 0.4s ease-in-out);
+  opacity: 1;
+}
+
+cells {
+
+  margin-bottom: $spacing-paragraph;
+  .cell:nth-child(even) {
+    background: transparentize($secondary-background-color, 0.5);
+  }
+  .cell:first-child {
+      padding-top: 0em;
+  }
+
+
+
+.cell {
+  $base-border-radius: 1px !default;
+  $base-spacing: 1.5em !default;
+  $action-color: #965251 !default;
+  $dark-gray: #333 !default;
+  $base-font-color: $dark-gray !default;
+  $comment-gutter: 1.4em;
+  $comment-image-padding: 0.0em;
+  $comment-color: $base-font-color;
+  $comment-background: lighten($action-color, 15%);
+  $comment-detail-color: transparentize($comment-color, 0.5);
+  $comment-image-vert-alignment: top;
+
+  border-bottom: 1px solid transparentize($comment-color, 0.9);
+  display: table;
+  //margin-bottom: $base-spacing;
+  //background: $action-color;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  width: 100%;
+  .cell-image,
+  .cell-content {
+    @include span-columns(8);
+    display: table-cell;
+    vertical-align: $comment-image-vert-alignment;
+  }
+
+
+  .cell-image {
+    @include span-columns(2);
+    padding-right: $comment-gutter;
+
+    > img {
+      //background: $comment-background;
+      //border-radius: $base-border-radius;
+      display: block;
+      height: auto;
+      padding: $comment-image-padding;
+    }
+
+    .comment-reverse-order & {
+      padding-right: 0;
+      padding-left: 10px;
+    }
+  }
+    nav {
+        & a {
+          font-size:18px;
+          color: $action-color;
+          margin-right:14px;
+          
+          &:last-child {
+            margin-right:9px;
+          }
+        }
+      }
+
+
+  .cell-content {
+    h1 {
+      font-size: 1em;
+      margin: 0 0 0.5em 0;
+    }
+
+    p.cell-detail {
+      color: $comment-detail-color;
+      font-size: 0.9em;
+      margin-bottom: 0.0em;
+      //font-style: italic;
+    }
+  }
+}
+}
+
+/******* Buttons */
+a.flat {
+      @include bbb-flat-style($base-button-background, $base-button-font-color);
+      padding: 0.2em 0.8em 0.2em 0.8em;
+
+      $color: $white;
+      border-radius: 0.5em;
+      i {
+        margin-right: 0.5em;
+      }
+}
+a.flat-cv {
+      @include bbb-flat-style($base-button-background, $base-button-font-color);
+      padding: 0.2em 0.8em 0.2em 0.8em;
+
+      $color: $white;
+      border-radius: 0.8em;
+      i {
+        margin-right: 0.0em;
+      }
+}
+
+/****** Scrolling */
+.scroll-on-page {
+  $base-line-height: 1.5em !default;
+  $base-spacing: 1.5em !default;
+  $action-color: #477DCA !default;
+  $dark-gray: #333 !default;
+  $large-screen: em(860) !default;
+  $base-font-color: $dark-gray !default;
+
+  display: inline-block;
+
+  a {
+    color: $action-color;
+    text-decoration: none;
+  }
+
+  aside {
+    @include media($large-screen) {
+      @include span-columns(4);
+    }
+  }
+
+  .scroll-on-page-link {
+    border-bottom: 1px solid transparentize($action-color, 0.8);
+    display: block;
+    margin-right: $base-spacing;
+    outline: none;
+    padding: ($base-spacing / 2) 0;
+
+    &:last-child {
+      margin-bottom: $base-spacing;
+    }
+  }
+
+  article {
+    h4 {
+      margin: 0 0 0.5em 0;
+    }
+
+    p {
+      color: $base-font-color;
+      line-height: $base-line-height;
+
+    }
+
+    section p:last-of-type {
+      margin-bottom: 2em; 
+    }
+
+    @include media($large-screen) {
+      @include span-columns(8);
+    }
+  }
+}
+
+// Based on code by http://codepen.io/xmark/

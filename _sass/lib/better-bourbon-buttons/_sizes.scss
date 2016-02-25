@@ -1,0 +1,15 @@
+// Some predefined button sizes algorithm here.
+// Please have in mind that it is extremely easy to create your own button sizes.
+
+@mixin bbb_size ($size: 1) {
+
+  $padding_y: 0;
+
+  @if (unitless($size)) {
+    $padding_y: $size * 7px;
+  } @else {
+    $padding_y: $size;
+  }
+  $padding_x: $padding_y * 2;
+  padding: $padding_y $padding_x;
+}
