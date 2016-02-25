@@ -2,14 +2,14 @@
   {
     "img": "/assets/img/talks/semi.jpg",
     "title": "Semi-supervised representation learning",
-    "content": "Seminar @ <a href=\"gmum.net\"> GMUM </a>",
+    "content": "Seminar @ <a href=\"http://gmum.net\"> GMUM </a>",
     "details": "2016, Cracow, Poland",
     "pdf": "/assets/pdf/talks/semi.pdf"
   },
   {
     "img": "/assets/img/talks/sfi1.png",
     "title": "Machine Learning - it is simple",
-    "content": "Workshop @ <a href=\"sfi.org.pl\">Student Computer Science Conference</a>",
+    "content": "Workshop @ <a href=\"http://sfi.org.pl\">Student Computer Science Conference</a>",
     "details": "2015, Cracow, Poland",
     "url": "sfi.org.pl/agenda/stanislaw-jastrzebski-machine-learning-dla-kazdego/",
     "github": "https://github.com/uj-robotics/dalek/tree/master/practical-ml"
