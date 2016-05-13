@@ -71,6 +71,10 @@ permalink: index.html
                 <a href="{{ entry.pdf }}" class="flat"> .pdf </a>
                 {% endif %}
 
+                {% if entry.poster %}
+                <a href="{{ entry.poster }}" class="flat"> poster </a>
+                {% endif %}
+
                 {% if entry.slides %}
                 <a href="{{ entry.slides }}" class="flat"> slides </a>
                 {% endif %}
