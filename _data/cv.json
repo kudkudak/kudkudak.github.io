@@ -1,5 +1,11 @@
 [
   {
+    "img": "/assets/img/cv/palantir.png",
+    "title": "Palantir",
+    "content": "Machine Learning intern, fraud models for major Palantir client and semi supervised deep learning for NER tagging",
+    "details": "2016, London, UK"
+  }, 
+  {
     "img": "/assets/img/cv/edinburgh.png",
     "title": "University of Edinburgh",
     "content": "Research intern, Deep Learning for Go, under the supervision of <a href=\"http://homepages.inf.ed.ac.uk/amos/\"> prof. Amos Storkey </a>",
