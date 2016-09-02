@@ -1,8 +1,14 @@
 [
+ {
+    "img": "/assets/img/cv/udem.png",
+    "title": "MILA Lab",
+    "content": "Deep Learning in drug discovery applications",
+    "details": "2016 (ongoing), Montreal, Canda"
+  },
   {
     "img": "/assets/img/cv/palantir.png",
     "title": "Palantir",
-    "content": "Machine Learning intern, fraud models for major Palantir client and semi supervised deep learning for NER tagging",
+    "content": "Machine Learning intern, production fraud models and semi supervised deep learning in NER tagging",
     "details": "2016, London, UK"
   }, 
   {
