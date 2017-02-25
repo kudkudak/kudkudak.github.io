@@ -3,14 +3,21 @@
     "img": "/assets/img/publications/17mem.png",
     "title": "A Closer Look at Memorization in Deep Networks",
     "content": "D.Krueger*, N. Ballas*, S. Jastrzębski*, D. Arpit* et al.",
-    "details": "(Submitted to ICML and ICLR workshop)",
+    "details": "(Submitted to ICML 2017 and ICLR 2017 workshop)",
     "pdf": "https://openreview.net/pdf?id=rJv6ZgHYg"   },
   {
     "img": "/assets/img/publications/17eval.png",
     "title": "How to evaluate word embeddings? On importance of data efficiency and simple supervised tasks",
     "content": "S. Jastrzębski, D. Lesniak & W. M. Czarnecki",
-    "details": "CoRR, arxiv",
+    "details": "CoRR, arxiv, 2017",
     "pdf": "http://arxiv.org/pdf/1702.02170.pdf"
+  },
+ {
+    "img": "/assets/img/publications/17quo.png",
+    "title": "Quo vadis G Protein-Coupled Receptor ligands? A tool for analysis of the emergence of new groups of compounds over time",
+    "content": "D. Lesniak, S. Jastrzębski, W. M. Czarnecki, S. Podlewska, A. Bojarski",
+    "details": "Bioorganic & Medicinal Chemistry Letters, 2017",
+    "pdf": "http://www.sciencedirect.com/science/article/pii/S0960894X16312689"
   },
 
   {
