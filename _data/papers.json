@@ -1,15 +1,15 @@
 [
-  {
+   {
     "img": "/assets/img/publications/17mem.png",
     "title": "A Closer Look at Memorization in Deep Networks",
-    "content": "D.Krueger*, N. Ballas*, S. Jastrzębski*, D. Arpit* et al.",
-    "details": "(ICML 2017, ICLR 2017 workshop)",
-    "pdf": "https://openreview.net/pdf?id=rJv6ZgHYg"   },
+    "content": "D.Krueger*, N. Ballas*, S. Jastrzębski*, D. Arpit*, Tegan Maharaj, Emmanuel Bengio, Asja Fischer, Aaron Courville, Simon Lacoste-Julien, Yoshua Bengio",
+    "details": "ICML 2017, ICLR 2017 (workshop track)"
+  }
   {
     "img": "/assets/img/publications/17eval.png",
     "title": "How to evaluate word embeddings? On importance of data efficiency and simple supervised tasks",
     "content": "S. Jastrzębski, D. Lesniak & W. M. Czarnecki",
-    "details": "CoRR, arxiv, 2017",
+    "details": "CoRR, arxiv, 2017. Submitted to CoNLL17",
     "pdf": "http://arxiv.org/pdf/1702.02170.pdf"
   },
  {
