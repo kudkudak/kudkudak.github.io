@@ -1,5 +1,12 @@
 [
    {
+    "img": "/assets/img/publications/resnets.png",
+    "title": "Residual Networks Encourage Iterative Inference",
+    "content": "S. Jastrzębski*, D. Arpit*, Nicolas Ballas, Vikas Verma, Yoshua Bengio",
+    "details": "Submitted to NIPS17"
+  },
+
+   {
     "img": "/assets/img/publications/17mem.png",
     "title": "A Closer Look at Memorization in Deep Networks",
     "content": "D.Krueger*, N. Ballas*, S. Jastrzębski*, D. Arpit*, Tegan Maharaj, Emmanuel Bengio, Asja Fischer, Aaron Courville, Simon Lacoste-Julien, Yoshua Bengio",
