@@ -1,7 +1,7 @@
 [
    {
     "img": "/assets/img/publications/resnets.png",
-    "title": "Residual Networks Encourage Iterative Inference",
+    "title": "Residual Connections Encourage Iterative Inference",
     "content": "S. Jastrzębski*, D. Arpit*, Nicolas Ballas, Vikas Verma, Yoshua Bengio",
     "details": "Submitted to NIPS17"
   },
