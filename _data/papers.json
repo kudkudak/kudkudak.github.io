@@ -2,14 +2,23 @@
    {
     "img": "/assets/img/publications/resnets.png",
     "title": "Residual Connections Encourage Iterative Inference",
-    "content": "S. Jastrzębski*, D. Arpit*, Nicolas Ballas, Vikas Verma, Yoshua Bengio",
+    "content": "S. Jastrzębski*, D. Arpit*, N. Ballas, V. Verma, Y. Bengio",
     "details": "Submitted to NIPS17"
   },
+   {
+    "img": "/assets/img/publications/ltc.png",
+    "title": "Learning to Compute Word Embeddings on The Fly",
+    "content": "D. Bahdanau, T. Bosc, S. Jastrzębski, E. Grefenstette, P. Vincent, Y. Bengio",
+    "details": "Submitted to NIPS17",
+    "pdf": "https://arxiv.org/abs/1706.00286",
+    "github": "https://github.com/tombosc/dict_based_learning"
+  },
+
 
    {
     "img": "/assets/img/publications/17mem.png",
     "title": "A Closer Look at Memorization in Deep Networks",
-    "content": "D.Krueger*, N. Ballas*, S. Jastrzębski*, D. Arpit*, Tegan Maharaj, Emmanuel Bengio, Asja Fischer, Aaron Courville, Simon Lacoste-Julien, Yoshua Bengio",
+    "content": "D.Krueger*, N. Ballas*, S. Jastrzębski*, D. Arpit*, T. Maharaj, E. Bengio, A. Fischer, A. Courville, S. Lacoste-Julien, Y. Bengio",
     "details": "ICML 2017, ICLR 2017 (workshop track)"
   },
   {
