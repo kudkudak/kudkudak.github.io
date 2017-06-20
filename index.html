@@ -26,27 +26,7 @@ by prof. <a href="http://homepages.inf.ed.ac.uk/amos/">Amos Storkey</a> </p>
     <a href="https://stackoverflow.com/users/2554446/kudkudak" class="flat-cv"><i class="fa fa-stack-overflow"></i> </a>
 
 </p>
-
-<h2 id="short-cv"> Short CV </h2>
-
-<cells>
-    {% for cv_entry in site.data.cv %}
-    <div class="cell">
-        <div class="cell-image">
-            <img src="{{ cv_entry.img }}" alt="Logo image">
-        </div>
-        <div class="cell-content">
-            <h1> {{ cv_entry.title }} </h1>
-
-            <p class="no-margin"> {{ cv_entry.content }} </p>
-
-            <p class="cell-detail"> {{ cv_entry.details }} </p>
-        </div>
-    </div>
-    {% endfor %}
-</cells>
-
-<p></p> <h2 id="publications"> Selected publications </h2>
+<h2 id="publications"> Selected publications </h2>
 
 <cells>
     {% for entry in site.data.papers %}
@@ -84,6 +64,26 @@ by prof. <a href="http://homepages.inf.ed.ac.uk/amos/">Amos Storkey</a> </p>
                 <a href="{{ entry.slides }}" class="flat"> slides </a>
                 {% endif %}
             </p>
+        </div>
+    </div>
+    {% endfor %}
+</cells>
+
+
+ <p></p><h2 id="short-cv"> Short CV </h2>
+
+<cells>
+    {% for cv_entry in site.data.cv %}
+    <div class="cell">
+        <div class="cell-image">
+            <img src="{{ cv_entry.img }}" alt="Logo image">
+        </div>
+        <div class="cell-content">
+            <h1> {{ cv_entry.title }} </h1>
+
+            <p class="no-margin"> {{ cv_entry.content }} </p>
+
+            <p class="cell-detail"> {{ cv_entry.details }} </p>
         </div>
     </div>
     {% endfor %}
