@@ -2,6 +2,13 @@
  {
     "img": "/assets/img/cv/udem.png",
     "title": "MILA Lab",
+    "content": "Research intern, Working on new methods for representation learning with application in NLP and cheminformatics. <a href=\"http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html\"> prof. Yoshua Bengio </a>",
+    "details": "2017, Montreal, Canda"
+  },
+
+ {
+    "img": "/assets/img/cv/udem.png",
+    "title": "MILA Lab",
     "content": "Research intern, Deep Learning with application in protein folding, under the supervision of <a href=\"http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html\"> prof. Yoshua Bengio </a>",
     "details": "2016, Montreal, Canda"
   },
