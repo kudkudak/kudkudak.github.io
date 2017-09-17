@@ -19,7 +19,7 @@
     "img": "/assets/img/publications/17mem.png",
     "title": "A Closer Look at Memorization in Deep Networks",
     "content": "D.Krueger*, N. Ballas*, S. Jastrzębski*, D. Arpit*, T. Maharaj, E. Bengio, A. Fischer, A. Courville, S. Lacoste-Julien, Y. Bengio",
-    "details": "ICML 2017, ICLR 2017 (workshop track)",
+    "details": "ICML 2017",
     "poster": "/assets/pdf/publications/memgen_poster.pdf",
     "slides": "/assets/pdf/publications/memgen_presentation.pdf",
     "pdf": "https://arxiv.org/abs/1706.05394"
@@ -43,7 +43,7 @@
     "img": "/assets/img/publications/cnn.png",
     "title": "Learning to SMILE(S)",
     "content": "S. Jastrzębski, D. Lesniak & W. M. Czarnecki",
-    "details": "ICLR 2016 workshop. CoRR, arxiv",
+    "details": "ICLR 2016 (workshop track)",
     "pdf": "http://arxiv.org/pdf/1602.06289v1.pdf",
     "poster": "/assets/pdf/publications/iclr_poster.pdf"
   },
@@ -51,7 +51,7 @@
     "img": "/assets/img/publications/al.png",
     "title": "Active Learning of Compounds Activity–Towards Scientifically Sound Simulation of Drug Candidates Identification",
     "content": "W. M. Czarnecki, S. Jastrzębski, I. Sieradzki, S. Podlewska",
-    "details": "workshop paper, MLLS Workshop @ ECML 2015",
+    "details": "MLLS Workshop @ ECML 2015",
     "github": "https://github.com/gmum/mlls2015",
     "pdf": "/assets/pdf/publications/al.pdf",
     "slides": "/assets/pdf/publications/al_presentation.pdf"
