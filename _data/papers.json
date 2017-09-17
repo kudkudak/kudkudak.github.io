@@ -60,7 +60,7 @@
     "img": "/assets/img/publications/knnmelc.png",
     "title": "Analysis of compounds activity concept learned by SVM using robust Jaccard based low-dimensional embedding",
     "content": "S. Jastrzębski, W. M. Czarnecki",
-    "details": "journal paper, TFML 2015",
+    "details": "TFML 2015",
     "pdf": "/assets/pdf/publications/knnmelc.pdf",
     "slides": "/assets/pdf/publications/knnmelc_presentation.pdf",
     "github": "https://github.com/kudkudak/compound-activity-prediction"
