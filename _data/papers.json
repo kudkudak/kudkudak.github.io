@@ -20,7 +20,7 @@
   {
     "img": "/assets/img/publications/17eval.png",
     "title": "How to evaluate word embeddings? On importance of data efficiency and simple supervised tasks",
-    "content": "S. Jastrzębski, D. Lesniak & W. M. Czarnecki",
+    "content": "S. Jastrzębski, D. Lesniak, W. M. Czarnecki",
     "pdf": "http://arxiv.org/pdf/1702.02170.pdf"
   },
  {
@@ -34,7 +34,7 @@
   {
     "img": "/assets/img/publications/cnn.png",
     "title": "Learning to SMILE(S)",
-    "content": "S. Jastrzębski, D. Lesniak & W. M. Czarnecki",
+    "content": "S. Jastrzębski, D. Lesniak, W. M. Czarnecki",
     "details": "ICLR 2016 (workshop track)",
     "pdf": "http://arxiv.org/pdf/1602.06289v1.pdf",
     "poster": "/assets/pdf/publications/iclr_poster.pdf"
