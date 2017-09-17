@@ -5,6 +5,7 @@
     "content": "D. Bahdanau, T. Bosc, S. Jastrzębski, E. Grefenstette, P. Vincent, Y. Bengio",
     "poster": "/assets/pdf/publications/ltc_poster.pdf",
     "pdf": "https://arxiv.org/abs/1706.00286",
+    "details": "CoRR, arxiv, 2017",
     "github": "https://github.com/tombosc/dict_based_learning"
   },
    {
@@ -27,7 +28,7 @@
     "img": "/assets/img/publications/17eval.png",
     "title": "How to evaluate word embeddings? On importance of data efficiency and simple supervised tasks",
     "content": "S. Jastrzębski, D. Lesniak & W. M. Czarnecki",
-    "details": "CoRR, arxiv, 2017. Submitted to CoNLL17",
+    "details": "CoRR, arxiv, 2017",
     "pdf": "http://arxiv.org/pdf/1702.02170.pdf"
   },
  {
