@@ -6,14 +6,6 @@
     "details": "2016, Cracow, Poland",
     "pdf": "/assets/pdf/talks/gp.pdf"
   },
- 
-  {
-    "img": "/assets/img/talks/semi.jpg",
-    "title": "Semi-supervised representation learning",
-    "content": "Seminar @ <a href=\"http://gmum.net\"> GMUM </a>",
-    "details": "2016, Cracow, Poland",
-    "pdf": "/assets/pdf/talks/semi.pdf"
-  },
   {
     "img": "/assets/img/talks/sfi1.png",
     "title": "Machine Learning - it is simple",

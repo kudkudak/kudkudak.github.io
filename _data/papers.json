@@ -19,6 +19,8 @@
     "title": "A Closer Look at Memorization in Deep Networks",
     "content": "D.Krueger*, N. Ballas*, S. Jastrzębski*, D. Arpit*, T. Maharaj, E. Bengio, A. Fischer, A. Courville, S. Lacoste-Julien, Y. Bengio",
     "details": "ICML 2017, ICLR 2017 (workshop track)",
+    "poster": "/assets/pdf/publications/memgen_poster.pdf",
+    "slides": "/assets/pdf/publications/memgen_presentation.pdf",
     "pdf": "https://arxiv.org/abs/1706.05394"
   },
   {
