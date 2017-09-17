@@ -7,12 +7,6 @@
     "pdf": "https://arxiv.org/abs/1706.00286",
     "github": "https://github.com/tombosc/dict_based_learning"
   },
-   {
-    "img": "/assets/img/publications/resnets.png",
-    "title": "Residual Connections Encourage Iterative Inference",
-    "content": "S. Jastrzębski*, D. Arpit*, N. Ballas, V. Verma, Y. Bengio"
-  },
- 
 
    {
     "img": "/assets/img/publications/17mem.png",
