@@ -43,7 +43,7 @@
     "img": "/assets/img/publications/al.png",
     "title": "Active Learning of Compounds Activity–Towards Scientifically Sound Simulation of Drug Candidates Identification",
     "content": "W. M. Czarnecki, S. Jastrzębski, I. Sieradzki, S. Podlewska",
-    "details": "MLLS Workshop @ ECML 2015",
+    "details": "MLLS workshop, ECML 2015",
     "github": "https://github.com/gmum/mlls2015",
     "pdf": "/assets/pdf/publications/al.pdf",
     "slides": "/assets/pdf/publications/al_presentation.pdf"
@@ -61,7 +61,7 @@
     "img": "/assets/img/publications/gng.png",
     "title": "Density Invariant Detection of Osteoporosis Using Growing Neural Gas",
     "content": "I. T. Podolak, S. Jastrzębski",
-    "details": "conference paper, CORES 2013",
+    "details": "CORES 2013",
     "slides": "/assets/pdf/publications/gng_slides.pdf",
     "github": "https://github.com/kudkudak/Growing-Neural-Gas"
   }
