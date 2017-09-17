@@ -2,7 +2,7 @@
   {
     "img": "/assets/img/publications/ltc.png",
     "title": "Learning to Compute Word Embeddings on The Fly",
-    "content": "D. Bahdanau, T. Bosc, S. Jastrzębski, E. Grefenstette, P. Vincent, Y. Bengio",
+    "content": "D. Bahdanau, T. Bosc*, S. Jastrzębski*, E. Grefenstette, P. Vincent, Y. Bengio",
     "poster": "/assets/pdf/publications/ltc_poster.pdf",
     "pdf": "https://arxiv.org/abs/1706.00286",
     "details": "CoRR, arxiv, 2017",
