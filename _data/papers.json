@@ -1,4 +1,10 @@
 [
+ {		
+     "img": "/assets/img/publications/resnets.png",		
+     "title": "Residual Connections Encourage Iterative Inference",		
+     "content": "S. Jastrzębski*, D. Arpit*, N. Ballas, V. Verma, T. Che, Y. Bengio",
+     "pdf": "https://arxiv.org/abs/1710.04773"
+  },
   {
     "img": "/assets/img/publications/ltc.png",
     "title": "Learning to Compute Word Embeddings on The Fly",
