@@ -1,5 +1,12 @@
 [
  {		
+     "img": "/assets/img/publications/threefactors.png",		
+     "title": "Three factors influencing minima in SGD",		
+     "content": "S. Jastrzębski*, Z. Kenton*, D. Arpit, N. Ballas, A. Fischer, Y. Bengio, A. Storkey",
+     "pdf": "https://arxiv.org/abs/1711.04623"
+  },
+
+    {		
      "img": "/assets/img/publications/resnets.png",		
      "title": "Residual Connections Encourage Iterative Inference",		
      "content": "S. Jastrzębski*, D. Arpit*, N. Ballas, V. Verma, T. Che, Y. Bengio",
