@@ -6,12 +6,6 @@
     "github": "https://github.com/kudkudak/word-embeddings-benchmarks"
   },
   {
-    "img": "/assets/img/code/alpy.jpg",
-    "title": "alpy",
-    "content": "Python package for Active Learning with scikit-learn compatible API.",
-    "details": "Work in progress"
-  },
-  {
     "img": "/assets/img/code/gmumr.png",
     "title": "GMUM.R",
     "content": "ML algorithms C++ implementations for R, including online clustering, swappable SVM library interface and new clustering algorithm.",
