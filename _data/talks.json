@@ -1,2 +1,9 @@
 [
+    {
+    "img": "/assets/img/talks/three.png",
+    "title": "Understanding How Deep Networks Learn",
+    "content": "Invited talk @ <a href=\"plinml.mimuw.edu.pl\"> PL in ML </a>",
+    "details": "2017, Warsaw, Poland",
+    "pdf": "https://drive.google.com/file/d/1FfSKTpSeCC5pmfilN7zsOG8JrOtzRi2I/view"
+  },
 ]

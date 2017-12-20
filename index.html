@@ -129,4 +129,37 @@ by prof. <a href="http://homepages.inf.ed.ac.uk/amos/">Amos Storkey</a>. Current
     </div>
     {% endfor %}
 </cells>
+<p></p> <h2 id="talks"> Talks </h2>
 
+<cells>
+    {% for entry in site.data.talks %}
+    <div class="cell">
+        <div class="cell-image">
+            <img src="{{ entry.img }}" alt="Logo image">
+        </div>
+        <div class="cell-content">
+            <h1>{{ entry.title }}</h1>
+
+            <p class="small-margin"> {{ entry.content }} </p>
+
+            <p class="cell-detail">
+                {% if entry.details %}
+                {{ entry.details }} <br>
+                {% endif %}
+
+                {% if entry.github %}
+                <a href="{{ entry.github }}" class="flat"><i class="fa fa-github"></i> github </a>
+                {% endif %}
+
+                {% if entry.url %}
+                <a href="{{ entry.url }}" class="flat"><i class="fa fa-link"></i> url </a>
+                {% endif %}
+
+                {% if entry.pdf %}
+                <a href="{{ entry.pdf }}" class="flat"> slides </a>
+                {% endif %}
+            </p>
+        </div>
+    </div>
+    {% endfor %}
+</cells>
