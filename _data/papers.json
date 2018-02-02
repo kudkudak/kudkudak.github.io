@@ -1,42 +1,38 @@
 [
- {		
-     "img": "/assets/img/publications/threefactors.png",		
-     "title": "Three factors influencing minima in SGD",		
-     "content": "S. Jastrzębski*, Z. Kenton*, D. Arpit, N. Ballas, A. Fischer, Y. Bengio, A. Storkey",
-     "slides": "/assets/pdf/publications/tfsgd_presentation.pdf",
-     "pdf": "https://arxiv.org/abs/1711.04623"
-  },
-
     {		
      "img": "/assets/img/publications/resnets.png",		
      "title": "Residual Connections Encourage Iterative Inference",		
-     "details": "ICLR 2018",
+     "details": "International Conference on Learning Representations 2018",
      "content": "S. Jastrzębski*, D. Arpit*, N. Ballas, V. Verma, T. Che, Y. Bengio",
      "pdf": "https://arxiv.org/abs/1710.04773"
-  },
-  {
-    "img": "/assets/img/publications/ltc.png",
-    "title": "Learning to Compute Word Embeddings on The Fly",
-    "content": "D. Bahdanau, T. Bosc*, S. Jastrzębski*, E. Grefenstette, P. Vincent, Y. Bengio",
-    "poster": "/assets/pdf/publications/ltc_poster.pdf",
-    "pdf": "https://arxiv.org/abs/1706.00286",
-    "github": "https://github.com/tombosc/dict_based_learning"
   },
 
    {
     "img": "/assets/img/publications/17mem.png",
     "title": "A Closer Look at Memorization in Deep Networks",
     "content": "D. Arpit*, S. Jastrzębski*, N. Ballas*, D. Krueger*,  T. Maharaj, E. Bengio, A. Fischer, A. Courville, S. Lacoste-Julien, Y. Bengio",
-    "details": "ICML 2017",
+    "details": "International Conference on Machine Learning 2017",
     "poster": "/assets/pdf/publications/memgen_poster.pdf",
     "slides": "/assets/pdf/publications/memgen_presentation.pdf",
     "pdf": "https://arxiv.org/abs/1706.05394"
   },
+
   {
-    "img": "/assets/img/publications/17eval.png",
-    "title": "How to evaluate word embeddings? On importance of data efficiency and simple supervised tasks",
-    "content": "S. Jastrzębski, D. Lesniak, W. M. Czarnecki",
-    "pdf": "http://arxiv.org/pdf/1702.02170.pdf"
+    "img": "/assets/img/publications/ltc.png",
+    "title": "Learning to Compute Word Embeddings on The Fly",
+    "content": "D. Bahdanau, T. Bosc*, S. Jastrzębski*, E. Grefenstette, P. Vincent, Y. Bengio",
+    "poster": "/assets/pdf/publications/ltc_poster.pdf",
+    "details": "Montreal AI Symposium 2017",
+    "pdf": "https://arxiv.org/abs/1706.00286",
+    "github": "https://github.com/tombosc/dict_based_learning"
+  },
+
+  {		
+     "img": "/assets/img/publications/threefactors.png",		
+     "title": "Three factors influencing minima in SGD",		
+     "content": "S. Jastrzębski*, Z. Kenton*, D. Arpit, N. Ballas, A. Fischer, Y. Bengio, A. Storkey",
+     "slides": "/assets/pdf/publications/tfsgd_presentation.pdf",
+     "pdf": "https://arxiv.org/abs/1711.04623"
   },
  {
     "img": "/assets/img/publications/17quo.png",
@@ -50,10 +46,18 @@
     "img": "/assets/img/publications/cnn.png",
     "title": "Learning to SMILE(S)",
     "content": "S. Jastrzębski, D. Lesniak, W. M. Czarnecki",
-    "details": "ICLR 2016 (workshop track)",
+    "details": "International Conference on Learning Representations 2016 (workshop track)",
     "pdf": "http://arxiv.org/pdf/1602.06289v1.pdf",
     "poster": "/assets/pdf/publications/iclr_poster.pdf"
   },
+
+  {
+    "img": "/assets/img/publications/17eval.png",
+    "title": "How to evaluate word embeddings? On importance of data efficiency and simple supervised tasks",
+    "content": "S. Jastrzębski, D. Lesniak, W. M. Czarnecki",
+    "pdf": "http://arxiv.org/pdf/1702.02170.pdf"
+  },
+
   {
     "img": "/assets/img/publications/al.png",
     "title": "Active Learning of Compounds Activity–Towards Scientifically Sound Simulation of Drug Candidates Identification",
