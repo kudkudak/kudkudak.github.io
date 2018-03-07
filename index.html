@@ -160,6 +160,10 @@ by prof. <a href="http://homepages.inf.ed.ac.uk/amos/">Amos Storkey</a>. </p> <p
                 {% if entry.pdf %}
                 <a href="{{ entry.pdf }}" class="flat"> slides </a>
                 {% endif %}
+
+                {% if entry.video %}
+                <a href="{{ entry.video }}" class="flat"> video </a>
+                {% endif %}
             </p>
         </div>
     </div>
