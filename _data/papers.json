@@ -30,6 +30,7 @@
   {		
      "img": "/assets/img/publications/threefactors.png",		
      "title": "Three factors influencing minima in SGD",		
+     "details": "International Conference on Learning Representations 2018 (workshop track)",
      "content": "S. Jastrzębski*, Z. Kenton*, D. Arpit, N. Ballas, A. Fischer, Y. Bengio, A. Storkey",
      "slides": "/assets/pdf/publications/tfsgd_presentation.pdf",
      "pdf": "https://arxiv.org/abs/1711.04623"
