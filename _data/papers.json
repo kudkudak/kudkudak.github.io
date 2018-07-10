@@ -4,7 +4,7 @@
      "img": "/assets/img/publications/sharpest.png",		
      "title": "DNN's Sharpest Directions Along SGD Trajectory",		
      "details": "Modern Trends in Nonconvex Optimization for Machine Learning Workshop (ICML, 2018)",
-     "content": "S. Jastrzębski*, Z. Kenton*, D. Arpit, N. Ballas, A. Fischer, Y. Bengio, A. Storkey",
+     "content": "S. Jastrzębski, Z. Kenton, N. Ballas, A. Fischer, Y. Bengio, A. Storkey",
      "pdf": "https://drive.google.com/file/d/1kY6FP6KSV75erbnURZbbcJPP3Oye9xI2/view",
       "poster": "/assets/pdf/publications/poster_sharpest.pdf"
   },
