@@ -20,7 +20,7 @@
 
   {		
      "img": "/assets/img/publications/18commonsense.png",		
-     "title": "Commonsense mining as knowledge base completion? A study on the impact of novelty@",		
+     "title": "Commonsense mining as knowledge base completion? A study on the impact of novelty",		
      "details": "Workshop on New Forms of Generalization in Deep Learning and Natural Language Processing (NAACL 2018)",
      "content": "S. Jastrzębski, D. Bahdanau, S. Hosseini, M. Noukhovitch, Y. Bengio, J.Cheung",
       "pdf": "https://arxiv.org/pdf/1804.09259.pdf",
