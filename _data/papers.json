@@ -1,9 +1,38 @@
 [
+    
+  {		
+     "img": "/assets/img/publications/sharpest.png",		
+     "title": "DNN's Sharpest Directions Along SGD Trajectory",		
+     "details": "Modern Trends in Nonconvex Optimization for Machine Learning Workshop (ICML, 2018)",
+     "content": "S. Jastrzębski*, Z. Kenton*, D. Arpit, N. Ballas, A. Fischer, Y. Bengio, A. Storkey",
+      "poster": "/assets/pdf/publications/poster_sharpest.pdf"
+  },
+
+
+  {		
+     "img": "/assets/img/publications/threefactors.png",		
+     "title": "Three factors influencing minima in SGD",		
+     "details": "International Conference on Artificial Intelligencje (2018, oral). International Conference on Learning Representations 2018 (workshop track)",
+     "content": "S. Jastrzębski*, Z. Kenton*, D. Arpit, N. Ballas, A. Fischer, Y. Bengio, A. Storkey",
+     "pdf": "https://arxiv.org/abs/1711.04623"
+  },
+
+  {		
+     "img": "/assets/img/publications/18commonsense.png",		
+     "title": "Commonsense mining as knowledge base completion? A study on the impact of novelty@",		
+     "details": "Workshop on New Forms of Generalization in Deep Learning and Natural Language Processing (NAACL 2018)",
+     "content": "S. Jastrzębski, D. Bahdanau, S. Hosseini, M. Noukhovitch, Y. Bengio, J.Cheung",
+      "poster": "https://arxiv.org/pdf/1804.09259.pdf"
+  },
+
+
+
     {		
      "img": "/assets/img/publications/resnets.png",		
      "title": "Residual Connections Encourage Iterative Inference",		
      "details": "International Conference on Learning Representations 2018",
      "content": "S. Jastrzębski*, D. Arpit*, N. Ballas, V. Verma, T. Che, Y. Bengio",
+      "poster": "/assets/pdf/publications/poster_resnet.pdf",
      "pdf": "https://arxiv.org/abs/1710.04773"
   },
 
@@ -17,23 +46,7 @@
     "pdf": "https://arxiv.org/abs/1706.05394"
   },
 
-  {
-    "img": "/assets/img/publications/ltc.png",
-    "title": "Learning to Compute Word Embeddings on The Fly",
-    "content": "D. Bahdanau, T. Bosc*, S. Jastrzębski*, E. Grefenstette, P. Vincent, Y. Bengio",
-    "poster": "/assets/pdf/publications/ltc_poster.pdf",
-    "details": "Montreal AI Symposium 2017",
-    "pdf": "https://arxiv.org/abs/1706.00286",
-    "github": "https://github.com/tombosc/dict_based_learning"
-  },
 
-  {		
-     "img": "/assets/img/publications/threefactors.png",		
-     "title": "Three factors influencing minima in SGD",		
-     "details": "International Conference on Learning Representations 2018 (workshop track)",
-     "content": "S. Jastrzębski*, Z. Kenton*, D. Arpit, N. Ballas, A. Fischer, Y. Bengio, A. Storkey",
-     "pdf": "https://arxiv.org/abs/1711.04623"
-  },
  {
     "img": "/assets/img/publications/17quo.png",
     "title": "Quo vadis G Protein-Coupled Receptor ligands? A tool for analysis of the emergence of new groups of compounds over time",
