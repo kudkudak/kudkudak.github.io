@@ -5,6 +5,7 @@
      "title": "DNN's Sharpest Directions Along SGD Trajectory",		
      "details": "Modern Trends in Nonconvex Optimization for Machine Learning Workshop (ICML, 2018)",
      "content": "S. Jastrzębski*, Z. Kenton*, D. Arpit, N. Ballas, A. Fischer, Y. Bengio, A. Storkey",
+     "pdf": "https://drive.google.com/file/d/1kY6FP6KSV75erbnURZbbcJPP3Oye9xI2/view",
       "poster": "/assets/pdf/publications/poster_sharpest.pdf"
   },
 
@@ -22,7 +23,9 @@
      "title": "Commonsense mining as knowledge base completion? A study on the impact of novelty@",		
      "details": "Workshop on New Forms of Generalization in Deep Learning and Natural Language Processing (NAACL 2018)",
      "content": "S. Jastrzębski, D. Bahdanau, S. Hosseini, M. Noukhovitch, Y. Bengio, J.Cheung",
+      "pdf": "https://arxiv.org/pdf/1804.09259.pdf",
       "poster": "https://arxiv.org/pdf/1804.09259.pdf"
+
   },
 
 
