@@ -3,14 +3,7 @@
     "img": "/assets/img/cv/udem.png",
     "title": "MILA",
     "content": "Research intern supervised by <a href=\"http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html\"> prof. Yoshua Bengio </a>",
-    "details": "2017, Montreal, Canda"
-  },
-
- {
-    "img": "/assets/img/cv/udem.png",
-    "title": "MILA",
-    "content": "Research intern supervised by <a href=\"http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html\"> prof. Yoshua Bengio </a>",
-    "details": "2016, Montreal, Canda"
+    "details": "Summer 2016 and Summer 2017, Montreal, Canda"
   },
   {
     "img": "/assets/img/cv/palantir.png",
@@ -22,7 +15,7 @@
     "img": "/assets/img/cv/edinburgh.png",
     "title": "University of Edinburgh",
     "content": "Research intern, Deep Learning for Go, under the supervision of <a href=\"http://homepages.inf.ed.ac.uk/amos/\"> prof. Amos Storkey </a>",
-    "details": "2015, Edinburgh, UK"
+    "details": "9-11.2015, Edinburgh, UK"
   },
   {
     "img": "/assets/img/cv/palantir.png",
