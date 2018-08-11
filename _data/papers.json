@@ -13,22 +13,10 @@
   {		
      "img": "/assets/img/publications/threefactors.png",		
      "title": "Three factors influencing minima in SGD",		
-     "details": "International Conference on Artificial Intelligencje 2018 (oral). International Conference on Learning Representations 2018 (workshop)",
+     "details": "International Conference on Artificial Neural Networks 2018 (oral). International Conference on Learning Representations 2018 (workshop)",
      "content": "S. Jastrzębski*, Z. Kenton*, D. Arpit, N. Ballas, A. Fischer, Y. Bengio, A. Storkey",
      "pdf": "https://arxiv.org/abs/1711.04623"
   },
-
-  {		
-     "img": "/assets/img/publications/18commonsense.png",		
-     "title": "Commonsense mining as knowledge base completion? A study on the impact of novelty",		
-     "details": "Workshop on New Forms of Generalization in Deep Learning and Natural Language Processing (NAACL 2018)",
-     "content": "S. Jastrzębski, D. Bahdanau, S. Hosseini, M. Noukhovitch, Y. Bengio, J.Cheung",
-      "pdf": "https://arxiv.org/pdf/1804.09259.pdf",
-      "poster": "/assets/pdf/publications/poster_commonsense.pdf"
-
-  },
-
-
 
     {		
      "img": "/assets/img/publications/resnets.png",		
@@ -66,40 +54,5 @@
     "pdf": "http://arxiv.org/pdf/1602.06289v1.pdf",
     "poster": "/assets/pdf/publications/iclr_poster.pdf"
   },
-
-  {
-    "img": "/assets/img/publications/17eval.png",
-    "title": "How to evaluate word embeddings? On importance of data efficiency and simple supervised tasks",
-    "content": "S. Jastrzębski, D. Lesniak, W. M. Czarnecki",
-    "pdf": "http://arxiv.org/pdf/1702.02170.pdf"
-  },
-
-  {
-    "img": "/assets/img/publications/al.png",
-    "title": "Active Learning of Compounds Activity–Towards Scientifically Sound Simulation of Drug Candidates Identification",
-    "content": "W. M. Czarnecki, S. Jastrzębski, I. Sieradzki, S. Podlewska",
-    "details": "MLLS workshop, ECML 2015",
-    "github": "https://github.com/gmum/mlls2015",
-    "pdf": "/assets/pdf/publications/al.pdf",
-    "slides": "/assets/pdf/publications/al_presentation.pdf"
-  },
-  {
-    "img": "/assets/img/publications/knnmelc.png",
-    "title": "Analysis of compounds activity concept learned by SVM using robust Jaccard based low-dimensional embedding",
-    "content": "S. Jastrzębski, W. M. Czarnecki",
-    "details": "TFML 2015",
-    "pdf": "/assets/pdf/publications/knnmelc.pdf",
-    "slides": "/assets/pdf/publications/knnmelc_presentation.pdf",
-    "github": "https://github.com/kudkudak/compound-activity-prediction"
-  },
-  {
-    "img": "/assets/img/publications/gng.png",
-    "title": "Density Invariant Detection of Osteoporosis Using Growing Neural Gas",
-    "content": "I. T. Podolak, S. Jastrzębski",
-    "details": "CORES 2013",
-    "slides": "/assets/pdf/publications/gng_slides.pdf",
-    "github": "https://github.com/kudkudak/Growing-Neural-Gas"
-  }
-
 ]
 
