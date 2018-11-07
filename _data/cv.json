@@ -1,15 +1,21 @@
 [
  {
+    "img": "/assets/img/cv/gai.png",
+    "title": "Google AI",
+    "content": "Research intern, automatic machine learning",
+    "details": "11.2018-, Zurich, Switzerland"
+  },
+ {
     "img": "/assets/img/cv/udem.png",
     "title": "MILA",
     "content": "Research intern supervised by <a href=\"http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html\"> prof. Yoshua Bengio </a>",
-    "details": "Summer 2016 and Summer 2017, Montreal, Canda"
+    "details": "Summer 2016 & 2017, Montreal, Canda"
   },
   {
     "img": "/assets/img/cv/palantir.png",
     "title": "Palantir",
     "content": "Machine Learning intern, fraud detection models and Deep NLP applications",
-    "details": "2016, London, UK"
+    "details": "7-9.2016, London, UK"
   }, 
   {
     "img": "/assets/img/cv/edinburgh.png",
