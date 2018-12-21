@@ -2,8 +2,8 @@
     
   {		
      "img": "/assets/img/publications/sharpest.png",		
-     "title": "DNN's Sharpest Directions Along SGD Trajectory",		
-     "details": "Modern Trends in Nonconvex Optimization for Machine Learning Workshop (ICML, 2018)",
+     "title": "On the Relation Between the Sharpest Directions of DNN Loss and the SGD Step Length",		
+     "details": "International Conference on Learning Representations 2019",
      "content": "S. Jastrzębski, Z. Kenton, N. Ballas, A. Fischer, Y. Bengio, A. Storkey",
      "pdf": "https://drive.google.com/file/d/1kY6FP6KSV75erbnURZbbcJPP3Oye9xI2/view",
       "poster": "/assets/pdf/publications/poster_sharpest.pdf"
