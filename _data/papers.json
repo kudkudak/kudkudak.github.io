@@ -5,6 +5,7 @@
      "title": "On the Relation Between the Sharpest Directions of DNN Loss and the SGD Step Length",		
      "details": "International Conference on Learning Representations 2019",
      "content": "S. Jastrzębski, Z. Kenton, N. Ballas, A. Fischer, Y. Bengio, A. Storkey",
+     "code":"https://github.com/kudkudak/dnn_sharpest_directions",
      "pdf": "https://arxiv.org/abs/1807.05031",
       "poster": "/assets/pdf/publications/poster_sharpest.pdf"
   },
