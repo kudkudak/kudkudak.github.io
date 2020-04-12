@@ -1,5 +1,11 @@
 [
-    
+      {   
+     "img": "/assets/img/publications/break_even.png",    
+     "title": "The Break-Even Point on the Optimization Trajectories of Deep Neural Networks",    
+     "details": "International Conference on Learning Representations 2020 (Spotlight)",
+     "content": "S. Jastrzębski, M. Szymczak, S. Fort, D. Arpit, J. Tabor, K. Cho*, K. Geras*",
+     "pdf": "https://arxiv.org/abs/2002.09572"
+  },
   {		
      "img": "/assets/img/publications/sharpest.png",		
      "title": "On the Relation Between the Sharpest Directions of DNN Loss and the SGD Step Length",		
