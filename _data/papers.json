@@ -1,4 +1,13 @@
 [
+
+      {   
+     "img": "/assets/img/publications/mat.png",    
+     "title": "Molecule Attention Transformer",    
+     "details": "Neural Information Processing Systems 2019 (workshop)",
+     "content": "L. Maziarka, T. Danel, S. Mucha, K. Rataj, J. Tabor, S. Jastrzebski",
+     "pdf": "https://arxiv.org/abs/2002.08264",
+  },
+
       {   
      "img": "/assets/img/publications/break_even.png",    
      "title": "The Break-Even Point on the Optimization Trajectories of Deep Neural Networks",    
