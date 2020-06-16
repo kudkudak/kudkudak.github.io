@@ -7,6 +7,14 @@
      "pdf": "https://arxiv.org/abs/2002.09572",
      "talk": "https://iclr.cc/virtual_2020/poster_r1g87C4KwB.html"
   },
+  {   
+     "img": "/assets/img/publications/large_scale_structure.png",    
+     "title": "Large Scale Structure of Neural Network Loss Landscapes",    
+     "details": "Neural Information Processing Systems 2019",
+     "content": "S. Fort, S. Jastrzębski",
+     "pdf": "https://arxiv.org/abs/1906.04724",
+  },
+
   {		
      "img": "/assets/img/publications/sharpest.png",		
      "title": "On the Relation Between the Sharpest Directions of DNN Loss and the SGD Step Length",		
