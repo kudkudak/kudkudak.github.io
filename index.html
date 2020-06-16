@@ -10,7 +10,7 @@ permalink: index.html
 <p> My email is staszek.jastrzebski (on gmail). </p> 
 
 
-<p> News: </p>
+<p> News </p>
 <ul> 
     <li> (3.2020) Our <a href="https://openreview.net/forum?id=aD86B9pZ6u">paper</a> on multimodal learning for breast cancer screening has been accepted to MIDL 2020 as a Spotlight! </li>
     <li> (12.2019) Our <a href="https://iclr.cc/virtual_2020/poster_r1g87C4KwB.html">paper</a> on the early phase of the optimization trajectory has been accepted to ICLR 2020 as a Spotlight! </li>
@@ -26,7 +26,7 @@ permalink: index.html
     <li>Natural Language Processing</li>
     <li>Deep Learning for Computer Aided Drug Design</li>
 </ul>
-<p> Students: </p>
+<p> Students </p>
 <ul>
     <li> [MSc] Sławomir Mucha (UJ) - Pretraining in deep learning in cheminformatics </li>
     <li> [MSc] Tobiasz Ciepliński (UJ) - Evaluating generative models in chemistry using docking simulators </li>
@@ -48,7 +48,7 @@ permalink: index.html
 
 </p>
 
-<h2 id="publications"> Selected publications </h2>
+<h2 id="publications"> Selected Publications </h2>
 
 <p> For a full list please see my <a href="https://scholar.google.pl/citations?user=wbJxGQ8AAAAJ&hl=pl">Google Scholar profile</a>. </p>
 
@@ -84,6 +84,11 @@ permalink: index.html
                 {% if entry.poster %}
                 <a href="{{ entry.poster }}" class="flat"> poster </a>
                 {% endif %}
+
+                {% if entry.talk %}
+                <a href="{{ entry.talk }}" class="flat"> talk </a>
+                {% endif %}
+
 
                 {% if entry.slides %}
                 <a href="{{ entry.slides }}" class="flat"> slides </a>

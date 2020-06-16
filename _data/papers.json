@@ -4,7 +4,8 @@
      "title": "The Break-Even Point on the Optimization Trajectories of Deep Neural Networks",    
      "details": "International Conference on Learning Representations 2020 (Spotlight)",
      "content": "S. Jastrzębski, M. Szymczak, S. Fort, D. Arpit, J. Tabor, K. Cho*, K. Geras*",
-     "pdf": "https://arxiv.org/abs/2002.09572"
+     "pdf": "https://arxiv.org/abs/2002.09572",
+     "talk": "https://iclr.cc/virtual_2020/poster_r1g87C4KwB.html"
   },
   {		
      "img": "/assets/img/publications/sharpest.png",		
@@ -19,7 +20,7 @@
 
   {		
      "img": "/assets/img/publications/threefactors.png",		
-     "title": "Three factors influencing minima in SGD",		
+     "title": "Three Factors Influencing Minima in SGD",		
      "details": "International Conference on Artificial Neural Networks 2018 (oral), International Conference on Learning Representations 2018 (workshop)",
      "content": "S. Jastrzębski*, Z. Kenton*, D. Arpit, N. Ballas, A. Fischer, Y. Bengio, A. Storkey",
      "pdf": "https://arxiv.org/abs/1711.04623"
