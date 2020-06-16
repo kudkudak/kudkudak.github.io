@@ -42,6 +42,24 @@
     "poster": "/assets/pdf/publications/memgen_poster.pdf",
     "slides": "/assets/pdf/publications/memgen_presentation.pdf",
     "pdf": "https://arxiv.org/abs/1706.05394"
-  }
+  },
+
+
+ {
+    "img": "/assets/img/publications/17quo.png",
+    "title": "Quo vadis G Protein-Coupled Receptor ligands? A tool for analysis of the emergence of new groups of compounds over time",
+    "content": "D. Lesniak, S. Jastrzębski, W. M. Czarnecki, S. Podlewska, A. Bojarski",
+    "details": "Bioorganic & Medicinal Chemistry Letters, 2017",
+    "pdf": "http://www.sciencedirect.com/science/article/pii/S0960894X16312689"
+  },
+
+  {
+    "img": "/assets/img/publications/cnn.png",
+    "title": "Learning to SMILE(S)",
+    "content": "S. Jastrzębski, D. Lesniak, W. M. Czarnecki",
+    "details": "International Conference on Learning Representations 2016 (workshop track)",
+    "pdf": "http://arxiv.org/pdf/1602.06289v1.pdf",
+    "poster": "/assets/pdf/publications/iclr_poster.pdf"
+  },
 ]
 
