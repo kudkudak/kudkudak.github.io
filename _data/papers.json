@@ -1,14 +1,6 @@
 [
 
-      {   
-     "img": "/assets/img/publications/mat.png",    
-     "title": "Molecule Attention Transformer",    
-     "details": "Neural Information Processing Systems 2019 (workshop)",
-     "content": "L. Maziarka, T. Danel, S. Mucha, K. Rataj, J. Tabor, S. Jastrzebski",
-     "pdf": "https://arxiv.org/abs/2002.08264",
-  },
-
-      {   
+     {   
      "img": "/assets/img/publications/break_even.png",    
      "title": "The Break-Even Point on the Optimization Trajectories of Deep Neural Networks",    
      "details": "International Conference on Learning Representations 2020 (Spotlight)",
@@ -24,7 +16,15 @@
      "pdf": "https://arxiv.org/abs/1906.04724",
     "poster": "http://stanford.edu/~sfort1/landscape_neurips2019_poster_vertical.pdf"
   },
+      {   
+     "img": "/assets/img/publications/mat.png",    
+     "title": "Molecule Attention Transformer",    
+     "details": "Preprint (accepted at Graph Representation Learning workshop at NeurIPS 2019)",
+     "content": "L. Maziarka, T. Danel, S. Mucha, K. Rataj, J. Tabor, S. Jastrzebski",
+     "pdf": "https://arxiv.org/abs/2002.08264",
+  },
 
+ 
   {		
      "img": "/assets/img/publications/sharpest.png",		
      "title": "On the Relation Between the Sharpest Directions of DNN Loss and the SGD Step Length",		
