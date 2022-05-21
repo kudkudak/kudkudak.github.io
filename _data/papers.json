@@ -1,38 +1,26 @@
 [
-
+     {   
+     "img": "/assets/img/publications/22_differences.png",    
+     "title": "Differences between human and machine perception in medical diagnosis",    
+     "details": "Nature Scientific Reports",
+     "content": "T. Makino, S. Jastrzebski, Witold Oleszkiewicz, [...], Kyunghyun Cho, Krzysztof J Geras",
+     "pdf": "https://www.nature.com/articles/s41598-022-10526-z",
+  },
+       {   
+     "img": "/assets/img/publications/21_cf.png",    
+     "title": "Catastrophic Fisher Explosion: Early Phase Fisher Matrix Impacts Generalization",    
+     "details": "International Conference on Machine Learning 2021",
+     "content": "S. Jastrzebski, D. Arpit, O. Astrand, G. Kerg, H. Wang, C. Xiong, R. Socher, K. Cho*, K. Geras*",
+     "pdf": "https://arxiv.org/abs/2012.14193",
+     "talk": "https://slideslive.com/38958737/catastrophic-fisher-explosion-early-phase-fisher-matrix-impacts-generalization?ref=speaker-36508-latest"
+  },
      {   
      "img": "/assets/img/publications/break_even.png",    
      "title": "The Break-Even Point on the Optimization Trajectories of Deep Neural Networks",    
-     "details": "International Conference on Learning Representations 2020 (Spotlight)",
+     "details": "International Conference On Learning Algorithms 2020 (Spotlight)",
      "content": "S. Jastrzębski, M. Szymczak, S. Fort, D. Arpit, J. Tabor, K. Cho*, K. Geras*",
      "pdf": "https://arxiv.org/abs/2002.09572",
      "talk": "https://iclr.cc/virtual_2020/poster_r1g87C4KwB.html"
-  },
-  {   
-     "img": "/assets/img/publications/large_scale_structure.png",    
-     "title": "Large Scale Structure of Neural Network Loss Landscapes",    
-     "details": "Neural Information Processing Systems 2019",
-     "content": "S. Fort, S. Jastrzębski",
-     "pdf": "https://arxiv.org/abs/1906.04724",
-    "poster": "http://stanford.edu/~sfort1/landscape_neurips2019_poster_vertical.pdf"
-  },
-      {   
-     "img": "/assets/img/publications/mat.png",    
-     "title": "Molecule Attention Transformer",    
-     "details": "Preprint (accepted at Graph Representation Learning workshop at NeurIPS 2019)",
-     "content": "L. Maziarka, T. Danel, S. Mucha, K. Rataj, J. Tabor, S. Jastrzebski",
-     "pdf": "https://arxiv.org/abs/2002.08264",
-  },
-
- 
-  {		
-     "img": "/assets/img/publications/sharpest.png",		
-     "title": "On the Relation Between the Sharpest Directions of DNN Loss and the SGD Step Length",		
-     "details": "International Conference on Learning Representations 2019",
-     "content": "S. Jastrzębski, Z. Kenton, N. Ballas, A. Fischer, Y. Bengio, A. Storkey",
-     "github":"https://github.com/kudkudak/dnn_sharpest_directions",
-     "pdf": "https://arxiv.org/abs/1807.05031",
-      "poster": "/assets/pdf/publications/poster_sharpest.pdf"
   },
 
 
@@ -44,14 +32,6 @@
      "pdf": "https://arxiv.org/abs/1711.04623"
   },
 
-    {		
-     "img": "/assets/img/publications/resnets.png",		
-     "title": "Residual Connections Encourage Iterative Inference",		
-     "details": "International Conference on Learning Representations 2018",
-     "content": "S. Jastrzębski*, D. Arpit*, N. Ballas, V. Verma, T. Che, Y. Bengio",
-      "poster": "/assets/pdf/publications/poster_resnet.pdf",
-     "pdf": "https://arxiv.org/abs/1710.04773"
-  },
 
    {
     "img": "/assets/img/publications/17mem.png",
