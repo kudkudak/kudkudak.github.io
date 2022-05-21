@@ -131,16 +131,17 @@ cells {
   padding-top: 0.5em;
   padding-bottom: 0.5em;
   width: 100%;
+
   .cell-image,
   .cell-content {
-    @include span-columns(8);
+    @include span-columns(6);
     display: table-cell;
     vertical-align: $comment-image-vert-alignment;
   }
 
 
   .cell-image {
-    @include span-columns(2);
+    @include span-columns(4);
     padding-right: $comment-gutter;
 
     > img {
