@@ -1,5 +1,11 @@
 [
-
+     {   
+     "img": "/assets/img/publications/understanding_breast_cancer.png",    
+     "title": "Differences between human and machine perception in medical diagnosis",    
+     "details": "International Conference on Learning Representations 2020 (Spotlight)",
+     "content": "T. Makino, S. Jastrzebski, Witold Oleszkiewicz, [...], Kyunghyun Cho, Krzysztof J Geras",
+     "pdf": "https://www.nature.com/articles/s41598-022-10526-z",
+  },
      {   
      "img": "/assets/img/publications/break_even.png",    
      "title": "The Break-Even Point on the Optimization Trajectories of Deep Neural Networks",    
